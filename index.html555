@@ -296,32 +296,12 @@
 					<div class="portfolio-content">
 						<div class="isotope">
 							<div class="row">
-
-								<div class="col-sm-4">
-									<div class="item">
-										<img src="assets/images/portfolio/p1.jpg" alt="portfolio image"/>
-										<div class="isotope-overlay">
-											<a href="#">
-												Genet Teklay 1
-											</a>
-										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
 									<div class="item">
 										<img src="assets/images/portfolio/p2.jpg" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
-												Genet Teklay 2
-											</a>
-										</div><!-- /.isotope-overlay -->
-									</div><!-- /.item -->
-								</div><!-- /.col -->
-
-								<div class="col-sm-4">
-									<div class="item">
-										<img src="assets/images/portfolio/p3.jpg" alt="portfolio image"/>
-										<div class="isotope-overlay">
-											<a href="#">
-												Genet Teklay 3
+												Genet Teklay 1
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
@@ -332,15 +312,7 @@
 										<img src="assets/images/portfolio/p4.jpg" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
-												Genet Teklay 4
-											</a>
-										</div><!-- /.isotope-overlay -->
-									</div><!-- /.item -->
-									<div class="item">
-										<img src="assets/images/portfolio/p5.jpg" alt="portfolio image"/>
-										<div class="isotope-overlay">
-											<a href="#">
-												Genet Teklay 5
+												Genet Teklay 2
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
@@ -350,11 +322,8 @@
 					</div><!--/.gallery-content-->
 				</div><!--/.container-->
 			</div><!--/.portfolio-details-->
-
 		</section><!--/.portfolio-->
 		<!--portfolio end -->
-
-
 		<!--skills Teklayt -->
 		<section id="skills" class="skills">
 				<div class="skill-content">
